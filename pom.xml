@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.gentics.mesh.plugin</groupId>
 	<artifactId>mesh-netlify-plugin</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -16,7 +16,7 @@
 		<plugin.inception>2019-07-24</plugin.inception>
 		<plugin.description>Plugin for Netlify integration</plugin.description>
 
-		<mesh.version>0.39.2</mesh.version>
+		<mesh.version>1.0.0</mesh.version>
 	</properties>
 
 
